@@ -11,6 +11,7 @@ The App provides:
 (4) Showing the fluxes on the metabolic network map
 
 How to use:
+(0) Download the COBRATOOL: https://opencobra.github.io/cobratoolbox/stable/installation.html
 (1) Download the package to the path: User/Document/Matlab.
 (2) Open Matlab and install the app.
 (3) Add folders to the search path: addpath('path_name')
