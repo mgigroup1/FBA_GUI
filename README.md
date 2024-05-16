@@ -1,4 +1,4 @@
-# FBA_GUI
+# FBA_GUI: FBA_test
 GUI built on COBRATOOL
 
 The App is used for the analysis of metabolic network models. The GUI is built on COBRATOOL.
